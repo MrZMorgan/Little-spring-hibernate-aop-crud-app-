@@ -1,6 +1,5 @@
 package com.egor.spring.mvc_hibernate_aop.controller;
 
-import com.egor.spring.mvc_hibernate_aop.dao.EmployeeDAO;
 import com.egor.spring.mvc_hibernate_aop.entity.Employee;
 import com.egor.spring.mvc_hibernate_aop.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
